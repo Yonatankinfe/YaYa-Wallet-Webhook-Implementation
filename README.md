@@ -45,6 +45,6 @@ POSTGRES_DB: Chnage Database name
   
 # Security Considerations
 
-Implements signature verification
-Prevents replay attacks
-Validates input data
++ Implements signature verification
++ Prevents replay attacks
++ Validates input data
